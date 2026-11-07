@@ -23,7 +23,7 @@ export default function Footer() {
         sx={{ fontSize: { xs: "0.75rem", sm: "0.85rem" } }}
       >
         © {new Date().getFullYear()} Flora Home Int'l School | Built by{" "}
-        <b>SS3A Gold (Group 1)</b>
+        <b>ZIKO</b>
       </Typography>
     </Box>
   );
